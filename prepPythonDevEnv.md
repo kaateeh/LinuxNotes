@@ -1,4 +1,4 @@
-## Preparation of Python Development Environment
+## Preparation of Python Development Environment with Poetry
 
 1. `curl -sSL https://install.python-poetry.org | python3 -`
 2. add poetry to the PATH: `export PATH="/home/<username>/.local/bin:$PATH"`
