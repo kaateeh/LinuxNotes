@@ -1,5 +1,5 @@
 ## Disabling touchpad in Ubuntu
 
-  `xinput list`
-  `xinput set-prop <dev id> "Device Enabled" 0`
+  `xinput list`<br>
+  `xinput set-prop <dev id> "Device Enabled" 0`<br>
   `xinput --disable <dev id>`
