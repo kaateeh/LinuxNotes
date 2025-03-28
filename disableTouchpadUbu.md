@@ -1,4 +1,4 @@
-## Disabling touchpad in Ubuntu
+## Disabling touchpad on Ubuntu
 
   `xinput list`<br>
   `xinput set-prop <dev id> "Device Enabled" 0`<br>
