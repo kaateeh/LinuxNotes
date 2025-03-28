@@ -8,5 +8,5 @@
 6. cd to the *pythonProjects*
 7. create new project: `poetry new myAwesomeNewApp`
 8. cd to the *myAwesomeNewApp* directory
-9. edit pyproject.toml to add all the dependencies and such.
+9. edit *pyproject.toml* to add all the dependencies and such.
 10. the rest of fun is in Poetry's docs - they're pretty good.
